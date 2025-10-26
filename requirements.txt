@@ -1,0 +1,7 @@
+matplotlib
+easyocr
+ultralytics
+opencv-python
+ipython
+numpy
+pandas
