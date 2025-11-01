@@ -1,0 +1,28 @@
+path: '/content/yolo_20/data'
+train: images/train
+val: images/val
+test: images/test
+
+nc: 20
+
+names:
+  0: table
+  1: chair
+  2: whiteboard
+  3: bookshelf
+  4: clock
+  5: wall-magazine
+  6: trash-can
+  7: eraser
+  8: sharpener
+  9: pen
+  10: book
+  11: ruler
+  12: scissor
+  13: fan
+  14: laptop
+  15: remote-control
+  16: bag
+  17: pants
+  18: shoes
+  19: hat
