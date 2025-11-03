@@ -10,7 +10,7 @@ Original file is located at
 import matplotlib.pyplot as plt
 import easyocr
 import cv2
-img=cv2.imread('./test-images/stockimage1.jpg')
+img=cv2.imread('object_detection/test-images/stockimage1.jpg')
 
 reader = easyocr.Reader(['en'])
 results = reader.readtext(img)
