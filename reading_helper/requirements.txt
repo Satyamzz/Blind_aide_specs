@@ -1,0 +1,8 @@
+paddleocr
+paddlepaddle
+opencv-python
+numpy
+Pillow
+gTTS
+pygame
+playsound
